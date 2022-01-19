@@ -22,3 +22,6 @@ SISTEMA SIMULACION PRESENCIA
 
 CONTROL DE VENTANAS Y PUERTAS
 ![image](https://user-images.githubusercontent.com/89872727/150053268-2bd000f4-2b02-4e2d-894b-8772b4ee0be6.png)
+
+PLACA PCB DEL SISTEMA
+![image](https://user-images.githubusercontent.com/89872727/150054304-40f84d56-15b1-422c-b6ef-44fc0a7b49b0.png)
