@@ -4,7 +4,9 @@ Se tienen tres sistemas: Control de Acceso a la Vivienda, Simulación de presenc
 
 # Contenido:
 . Requisitos
+
 . Librerías
+
 . Capturas
 
 # Requisitos:
